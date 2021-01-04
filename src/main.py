@@ -1,6 +1,5 @@
 """
 Rajesh Sakhamuru
-CS 6200 Final Project
 Huffington Post Archived Articles Retrieval
 Web Article Scraper, ElasticSearch Index and Queries
 12-1-2020
